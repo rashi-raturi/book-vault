@@ -231,7 +231,3 @@ pytest src/tests/ -v
 ```
 
 ---
-
-## Author
-
-- **Rashi Raturi** - [GitHub Profile](https://github.com/rashi-raturi)
